@@ -1,0 +1,6 @@
+{
+  "git.ignoreLimitWarning": true,
+  "git.repositoryScanIgnoredFolders": [
+    "predict360user/head_motion_prediction"
+  ]
+}
